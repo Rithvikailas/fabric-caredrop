@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7c6f223f-5d78-495f-aaf5-8773f33f585f
+**URL**: https://preview--fabric-caredrop.lovable.app/
 
 ## How can I edit this code?
 
